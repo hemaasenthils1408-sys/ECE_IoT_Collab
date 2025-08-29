@@ -1,0 +1,3 @@
+* 8156b22 Update: sensor.py - added import time
+* d15ed68 Update: project_notes - soil sensor description
+* 43931c2 Initial commit: added sensor.py and project_notes.txt
