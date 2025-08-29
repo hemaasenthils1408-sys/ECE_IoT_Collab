@@ -1,2 +1,3 @@
 Project notes for Smart Agri NodeMCU
 Added soil sensor description and pins
+Contributed by Collaborator
